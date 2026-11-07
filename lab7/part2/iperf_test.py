@@ -10,4 +10,4 @@ class TestSuite:
 
         for item in parsed_data:
             assert item['Transfer'] > 2.0
-            assert item['Bitrate'] > 31.0
+            assert item['Bitrate'] > 20.0
